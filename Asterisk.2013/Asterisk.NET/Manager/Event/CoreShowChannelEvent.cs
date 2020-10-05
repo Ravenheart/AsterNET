@@ -24,8 +24,6 @@ namespace AsterNET.Manager.Event
 
         public string Priority { get; set; }
 
-        public string Uniqueid { get; set; }
-
         public string Linkedid { get; set; }
 
         public string BridgeId { get; set; }
